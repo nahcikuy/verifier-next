@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  padding: 16px;
+  background-color: #fff;
+  border-radius: 8px;
+  flex-direction: column;
+}
+
+.reason {
+  background-color: #ff0000;
+  color: #fff;
+  border-radius: 5px;
+  padding: 8px;
+  display: flex;
+  justify-content: center;
+  margin-top: 8px;
+  font-size: 14px;
+  font-weight: 700;
+}

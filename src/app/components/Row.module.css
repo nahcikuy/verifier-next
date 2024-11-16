@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  color: #000;
+  border-bottom: 1px solid #777;
+  padding-bottom: 8px;
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+
+.placeholder {
+  flex-grow: 1;
+}
+
+.left {
+  color: #777;
+}
